@@ -1,0 +1,6 @@
+hello 2
+
+this is a change from master
+hello 2. another change from newbranch
+
+this is text from a merge conflict edit
